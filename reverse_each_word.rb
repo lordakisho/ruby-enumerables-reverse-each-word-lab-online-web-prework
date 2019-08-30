@@ -1,7 +1,6 @@
 def reverse_each_word(sentence)
   words = sentence.split("")
   new_sentence = []
-  while 
+  words.each do 
   
-  sentence.each
 end
